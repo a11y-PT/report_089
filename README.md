@@ -1,8 +1,8 @@
 ---
-website: "nome_do_sítio_Web"          # Entre as aspas escreve o nome do website
+website: "Site do Município de Carregal do Sal"          # Entre as aspas escreve o nome do website
 date: "31/12/1999"                    # Entre as aspas escreve a data de criação do 1º relatório. Os restantes estão no histórico
-uri: "https://dominio_sitio_web.pt"   # Entre as aspas escreve o domínio do website
-a11y_statement: "https://dominio_sitio_web.pt/acessibilidade" # Entre as aspas escreve o URL da Declaração de Acessibilidade do website
+uri: "https://www.cm-carregal.pt/"   # Entre as aspas escreve o domínio do website
+a11y_statement: "https://www.cm-carregal.pt/ficha-tecnica/declaracao-de-acessibilidade-e-usabilidade" # Entre as aspas escreve o URL da Declaração de Acessibilidade do website
 owner: "nome_do_proprietário"         # Entre as aspas escrever o nome do owner do website
 seal: "Ouro"                          # Entre as aspas escreve Bronze, Prata ou Ouro
 validity: "dd/mm/aaaa a dd/mm/aaaa" # Entre as aspas escreve data de início e data de fim no formato 31/12/1999 a 31/12/2000
